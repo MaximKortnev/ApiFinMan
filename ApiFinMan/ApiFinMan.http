@@ -1,0 +1,6 @@
+@ApiFinMan_HostAddress = http://localhost:5066
+
+GET {{ApiFinMan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
