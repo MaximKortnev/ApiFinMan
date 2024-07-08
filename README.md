@@ -1,4 +1,4 @@
-# API для прилодения Финансовый менеджер
+# API для прижодения Финансовый менеджер
 
 [FinManagerReact](https://github.com/MaximKortnev/FinManager)
 
@@ -6,10 +6,11 @@
 Api запускается на порту https://localhost:7282
 
 Для корректоной работы следует установить:
-*[MsSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+* [MsSQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
 А также установить следующие зависимости:
-*EntityFrameworkCore
-*EntityFrameworkCore.Design
-*EntityFrameworkCore.SqlServer
-*EntityFrameworkCore.Tools
-*Swashbuckle.AspNetCore
+* EntityFrameworkCore
+* EntityFrameworkCore.Design
+* EntityFrameworkCore.SqlServer
+* EntityFrameworkCore.Tools
+* Swashbuckle.AspNetCore
